@@ -2,7 +2,7 @@
 
 Um conversor de moedas moderno, desenvolvido com **HTML**, **CSS** e **JavaScript**, que utiliza a [ExchangeRate API](https://www.exchangerate-api.com/) para fornecer taxas de câmbio em tempo real entre diversas moedas.
 
-**Deply online**: [conversor-devl.app](https://conversor-dev.vercel.app/)
+**Deply online**: [conversor-dev](https://conversor-dev.vercel.app/)
 
 ## Tecnologias utilizadas
 
